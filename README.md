@@ -1,3 +1,3 @@
-# SQLZo SQL Practice Problems
+# SQLZoo SQL Practice Problems
 
 - Used for SQL practice
